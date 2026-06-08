@@ -17,7 +17,7 @@ I'm still learning a lot, and I genuinely enjoy that part.
 
 ### 🛠 Tech I work with
 
-**Languages:** Python · JavaScript · SQL · HTML/CSS  
+**Languages:** Python · SQL · HTML/CSS  
 **Frameworks & Tools:** FastAPI · Flask · Django · React · Docker · Git  
 **ML/AI:** Scikit-Learn · XGBoost · SHAP · Pandas · NumPy · LLM Integration · RAG  
 **Databases:** MySQL · MongoDB  
@@ -46,7 +46,7 @@ I'm still learning a lot, and I genuinely enjoy that part.
 ### 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritishabobde-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ritishabobde)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ritishabobde-orange?style=flat&logo=leetcode)](https://leetcode.com/ritishabobde)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ritishabobde-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Ritisha_08/)
 [![Email](https://img.shields.io/badge/Email-ritishabobde094@gmail.com-red?style=flat&logo=gmail)](mailto:ritishabobde094@gmail.com)
 
 ---
